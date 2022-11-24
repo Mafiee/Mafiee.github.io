@@ -1,0 +1,31 @@
+what is gut and why it is used?
+
+*Git is a distributed version and conterol system for tracking changes in any
+ set of files, orginally designed for coordinating work among programmers coorperating on sources
+
+1 Introduction 
+GIT: it is a version control system
+github: it is a cloud based platform that is used for project
+Repository: entity containing your project
+Branch: A series of code changes
+Commit: Locking your changes
+
+What is git hub
+*Git is software
+*withub is online
+*A website and cloud-based service the help developers store add manage 
+
+Their Importance
+*Save time
+*easy collaboration and management of code
+*used in tech industry
+*can count as portfolio
+
+Stage of commit
+*Files
+*Index/staging area
+*Repository
+
+Basic commands
+Bit branch
+Git check out 
